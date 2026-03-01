@@ -50,3 +50,14 @@ h2 {
   border-bottom: 2px solid #3498db;
   padding-bottom: 0.3em;
 }
+
+p {
+  margin-bottom: 0.8em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+}

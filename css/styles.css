@@ -33,3 +33,20 @@ body {
 #main-nav ul li a:hover {
   color: #3498db;
 }
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #2c3e50;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin: 0.8em 0 0.3em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 1em 0 0.5em;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.3em;
+}
